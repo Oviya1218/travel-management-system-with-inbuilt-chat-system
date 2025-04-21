@@ -10,6 +10,7 @@ This the Buddy Travel , Travel Managemnt System and chat system using HTML , CSS
  
  # below is user name and password for the admin
  ----------------------------------------
+ 
 admin
 username: admin
 password: Test@123
@@ -17,4 +18,5 @@ password: Test@123
 chat admin
 email: admin@gmail.com
 password: Test@123
+
 --------------------------------------------------
